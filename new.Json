@@ -1,7 +1,7 @@
  {
 "name":"Yakubovsky ilya Aleksandrovich",
-"age": 32,
-"pets": 0,
-"salary": 3000
+"age": "32",
+"pets": "0",
+"salary": "3000"
 }
 
