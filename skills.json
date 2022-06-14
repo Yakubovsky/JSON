@@ -1,9 +1,23 @@
 ﻿{
-"skils":["Внимательность",
-"Дисциплинированность",
-"Исполнительность",
-"Ответственность",
-"Коммуникабельность",
-"Тактичность"]
-}
 
+    "skills": {
+
+        "skill": [
+
+            "Attentiveness",
+
+            "Discipline",
+
+            "Performance",
+
+            "Responsibility",
+
+            "Communicability",
+
+            "Tact"
+
+        ]
+
+    }
+
+}
